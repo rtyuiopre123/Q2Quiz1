@@ -1,0 +1,40 @@
+h1{
+	text-align: center;
+	padding: 20px;
+	font-size: 55px;
+	font-family: "Allura", serif;
+	background-image: url("padding image.jpeg");
+}
+
+body{
+	font-family: "Times New Roman", cursive;
+	font-size: 15px;
+	background-color: #e3ebdc;
+}
+
+img {
+  	float: left;
+  	margin-right: 5px;
+	size: 50px;
+}
+
+p {
+	overflow: hidden;
+}
+
+p1 {
+	text-align: center;
+}
+
+p2 {	
+	text-align: left;
+	font-size: 21px;
+}
+
+hr {
+	padding:;
+}
+
+.albums {
+	size: 50px;
+}
